@@ -1,4 +1,7 @@
-Implemented image comparison Python script which compares 2 images and prints comparison result: 'true' in case of equal result and 'false' in case of difference.
+Implemented image comparison Python script which compares 2 images and prints comparison result: 
+  'true' in case of equal result 
+  'false' in case of difference.
+
 Used 'Structured Similarity Image Metric' and 'Mean Squared Error' algorithms.
 
 Referals:
